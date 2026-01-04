@@ -1,0 +1,137 @@
+# Build directories
+build/
+cmake-build-debug/
+cmake-build-release/
+cmake-build-*/
+out/
+dist/
+bin/
+lib/
+
+# Object files
+*.o
+*.obj
+*.os
+*.ko
+*.so
+*.so.*
+*.dylib
+*.a
+*.lib
+*.dll
+*.exe
+
+# CMake
+CMakeFiles/
+cmake_install.cmake
+CMakeCache.txt
+Makefile
+
+# IDE and Editor files
+# Visual Studio Code
+.vscode/
+*.code-workspace
+
+# Visual Studio
+.vs/
+*.sln
+*.vcxproj
+*.vcxproj.filters
+*.vcxproj.user
+
+# CLion / IntelliJ IDEA
+.idea/
+*.iml
+*.iws
+*.ipr
+cmake-build-debug/
+cmake-build-release/
+
+# Qt Creator
+CMakeLists.txt.user
+CMakeLists.txt.user.*
+
+# Sublime Text
+*.sublime-project
+*.sublime-workspace
+
+# Atom
+.atom/
+
+# Vim
+.vim/
+*.swp
+*.swo
+*~
+.netrwhist
+
+# Emacs
+*~
+\#*\#
+.\#*
+
+# Xcode
+*.xcodeproj/
+*.xcworkspace/
+*.playground
+DerivedData/
+xcuserdata/
+*.xccheckout
+
+# GCC
+*.gch
+*.pch
+
+# Compiler output
+*.d
+
+# Dependencies
+*.depend
+*.pc
+
+# Debugging
+.gdbinit
+*.pdb
+*.ilk
+*.elf
+
+# Documentation
+docs/html/
+docs/latex/
+doxygen/
+
+# Temporary files
+*.tmp
+*.temp
+*~
+*.bak
+*.swp
+*.swo
+
+# OS files
+.DS_Store
+Thumbs.db
+.directory
+
+# Ninja
+.ninja_deps
+.ninja_log
+
+# Compilation database
+compile_commands.json
+
+# gcov coverage files
+*.gcda
+*.gcno
+*.gcov
+
+# System files
+.AppleDouble
+.LSOverride
+*.swp
+.project
+.classpath
+.c9/
+*.launch
+.settings/
+*.sublime-workspace
